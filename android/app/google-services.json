@@ -9,12 +9,56 @@
       "client_info": {
         "mobilesdk_app_id": "1:133831091177:android:d85312470b1a01ffd2e178",
         "android_client_info": {
-          "package_name": "com.empire.kurd"
+          "package_name": "com.ebroker.wrteam"
         }
       },
       "oauth_client": [
         {
           "client_id": "133831091177-7pir4qjhlpepen5nrcildslumtmmt4pq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ebroker.wrteam",
+            "certificate_hash": "13f9345f799940a80ce47f01ae94764afcfacf73"
+          }
+        },
+        {
+          "client_id": "133831091177-nf0ikl66i4ad9l34m5aajcssj48nv1ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHMu222KIA00nTUOL8-vTQyiqiFkLVG_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133831091177-nf0ikl66i4ad9l34m5aajcssj48nv1ed.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "133831091177-gp9glje986vbka2c9oo3cdjle8nr3kv4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.empire.kurd"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133831091177:android:75984bc9ec6aba27d2e178",
+        "android_client_info": {
+          "package_name": "com.empire.kurd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133831091177-1tqbe193sgk484qnatu6udurtg7friig.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.empire.kurd",
@@ -39,7 +83,7 @@
               "client_type": 3
             },
             {
-              "client_id": "133831091177-jrad5avpmv7b8lmia2b16sdh4kv91lkq.apps.googleusercontent.com",
+              "client_id": "133831091177-gp9glje986vbka2c9oo3cdjle8nr3kv4.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
                 "bundle_id": "com.empire.kurd"
